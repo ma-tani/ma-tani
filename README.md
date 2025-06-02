@@ -1,4 +1,10 @@
-## Hi there 👋
+## Olá 👋
+Eu faço mestrado em biofísica, atualmente trabalho com gasto energético de célular em cultura (mais ou menos). Além do mestrado já trabalhei como professor de física e participo como jurado da IYPT Brasil. Programo em python e wolfram mathematica. Atualmente aprendendo húngaro!
+
+
+I am a masters student in biophysics, currently working in energy expenditure of cells in cellular culture (more or less). I have also worked as a physics teacher and participate as a juror in the IYPT Brasil. I program in python and wolfram Mathematica. Currently learning hungarian!
+
+
 
 <!--
 **ma-tani/ma-tani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
